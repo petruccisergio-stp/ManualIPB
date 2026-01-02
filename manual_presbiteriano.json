@@ -1,0 +1,972 @@
+{
+  "metadados": {
+    "titulo_documento": "Manual Presbiteriano",
+    "edicao": "2019",
+    "organizacao": "Igreja Presbiteriana do Brasil",
+    "editora": "Cultura Cristã",
+    "proposito_manual": "Instrumento de consulta valioso para os membros, notadamente oficiais e concílios da Igreja Presbiteriana do Brasil, para orientação em suas decisões e para a preservação dos textos normativos e resoluções da IPB."
+  },
+  "conteudo": [
+    {
+      "tipo_documento_legal": "Constituição da Igreja (CI/IPB)",
+      "capitulos": [
+        {
+          "tipo": "preambulo",
+          "titulo": "PREÂMBULO",
+          "texto_original": "Em nome do Pai, e do Filho e do Espírito Santo, nós, legítimos representantes da Igreja Cristã Presbiteriana do Brasil, reunidos em Supremo Concílio, no ano de 1950, com poderes para reforma da Constituição, investidos de toda autoridade para cumprir as resoluções da legislatura de 1946, depositando toda nossa confiança na bênção do Deus Altíssimo e tendo em vista a promoção da paz, disciplina, unidade e edificação do povo de Cristo, elaboramos, decretamos e promulgamos, para glória de Deus, a seguinte Constituição da Igreja Presbiteriana do Brasil. A Constituição da Igreja Presbiteriana do Brasil foi promulgada em 20 de julho de 1950, para vigorar a partir de 31 de outubro do mesmo ano. De acordo com a resolução CE – 1952 – DOC. LVI – “Códigos e Siglas das Organizações da IPB” – os diplomas legais eclesiásticos tiveram suas abreviaturas expressamente definidas. A Constituição da Igreja Presbiteriana do Brasil ficou com a sigla CI/IPB.",
+          "analise_ia": {
+            "resumo_simples": "O Preâmbulo estabelece a origem e o propósito da Constituição da Igreja Presbiteriana do Brasil (IPB), promulgada em 1950. Ela foi criada por representantes do Supremo Concílio com o objetivo de promover paz, disciplina, unidade e edificação, para a glória de Deus. Também define a sigla CI/IPB para o documento.",
+            "conceitos_chave": [
+              "Autoridade Eclesiástica (Supremo Concílio)",
+              "Propósito da Igreja (paz, disciplina, unidade, edificação)",
+              "Glória de Deus",
+              "Fundamentação Trinitária"
+            ],
+            "contexto_teologico": "Reflete a crença reformada na soberania de Deus (iniciando 'Em nome do Pai, Filho e Espírito Santo' e finalizando 'para glória de Deus'). A menção de 'paz, disciplina, unidade e edificação' são valores centrais da eclesiologia presbiteriana, visando a boa ordem e o crescimento espiritual. A data de promulgação (1950) é um marco histórico importante para a autonomia e organização jurídica da IPB no Brasil."
+          }
+        },
+        {
+          "tipo": "capitulo",
+          "numero": "I",
+          "titulo": "NATUREZA, GOVERNO E FINS DA IGREJA",
+          "artigos": [
+            {
+              "artigo": 1,
+              "texto_original": "A Igreja Presbiteriana do Brasil é uma federação de igrejas locais, que adota como única regra de fé e prática as Escrituras Sagradas do Velho e Novo Testamentos e como sistema expositivo de doutrina e prática a sua Confissão de Fé e os Catecismos Maior e Breve; rege-se pela presente Constituição; é pessoa jurídica, de acordo com as leis do Brasil, sempre representada civilmente pela sua Comissão Executiva e exerce o seu governo por meio de concílios e indivíduos, regularmente instalados.",
+              "analise_ia": {
+                "resumo_simples": "A IPB é uma federação de igrejas locais, que se guia exclusivamente pela Bíblia e pelos padrões de Westminster (Confissão de Fé e Catecismos). É uma pessoa jurídica e governada por concílios e oficiais.",
+                "conceitos_chave": [
+                  "Federação de Igrejas",
+                  "Sola Scriptura (Escrituras como única regra)",
+                  "Padrões de Westminster (Confissão de Fé, Catecismos)",
+                  "Pessoa Jurídica",
+                  "Governo Conciliar"
+                ],
+                "contexto_teologico": "Este artigo é fundamental para a identidade da IPB. Ele estabelece a 'Sola Scriptura' como princípio máximo, com os Padrões de Westminster como interpretação oficial da doutrina. Define o sistema de governo presbiteriano, onde a autoridade reside nos concílios (Conselho, Presbitério, Sínodo, Supremo Concílio), e não em um único líder ou congregação isolada. Ser uma 'pessoa jurídica' garante sua existência e atuação legal no Brasil."
+              }
+            },
+            {
+              "artigo": 2,
+              "texto_original": "A Igreja Presbiteriana do Brasil tem por fim prestar culto a Deus, em espírito e verdade, pregar o Evangelho, batizar os conversos, seus filhos e menores sob sua guarda e “ensinar os fiéis a guardar a doutrina e prática das Escrituras do Antigo e Novo Testamentos, na sua pureza e integridade, bem como promover a aplicação dos princípios de fraternidade cristã e o crescimento de seus membros na graça e no conhecimento de Nosso Senhor Jesus Cristo”.",
+              "analise_ia": {
+                "resumo_simples": "Os principais objetivos da IPB são adorar a Deus, evangelizar, batizar novos convertidos e seus dependentes, ensinar a Bíblia e promover o crescimento espiritual e a fraternidade cristã entre seus membros.",
+                "conceitos_chave": [
+                  "Adoração (culto)",
+                  "Missão (pregar o Evangelho)",
+                  "Sacramentos (batismo)",
+                  "Discipulado (ensinar a doutrina)",
+                  "Crescimento Espiritual",
+                  "Fraternidade Cristã"
+                ],
+                "contexto_teologico": "Este artigo delineia a 'Grande Comissão' de Jesus Cristo para a igreja (Mateus 28:19-20), enfatizando a adoração, evangelização e discipulado. A inclusão do batismo de 'filhos e menores sob sua guarda' reflete a teologia pactual (da aliança) reformada, onde os filhos dos crentes são considerados parte da aliança e recebem o sinal do batismo, sendo posteriormente ensinados na fé."
+              }
+            },
+            {
+              "artigo": 3,
+              "texto_original": "O poder da igreja é espiritual e administrativo, residindo na corporação, isto é, nos que governam e nos que são governados. § 1º A autoridade dos que são governados é exercida pelo povo reunido em assembleia, para: a) eleger pastores e oficiais da igreja ou pedir a sua exoneração; b) pronunciar-se a respeito dos mesmos, bem como sobre questões orçamentárias e administrativas, quando o Conselho o solicitar; c) deliberar sobre a aquisição ou alienação de imóveis e propriedades, tudo de acordo com a presente Constituição e as regras estabelecidas pelos concílios competentes. § 2º A autoridade dos que governam é de ordem e de jurisdição. É de ordem, quando exercida por oficiais, individualmente, na administração de sacramentos e na impetração da bênção pelos ministros, e na integração de concílios por ministros e presbíteros. É de jurisdição, quando exercida coletivamente por oficiais, em concílios, para legislar, julgar, admitir, excluir ou transferir membros e administrar as comunidades.",
+              "analise_ia": {
+                "resumo_simples": "O poder na IPB é dividido entre o povo (membros em assembleia, que elegem e deliberam sobre bens e finanças) e os oficiais (que governam individualmente em sacramentos e coletivamente nos concílios para legislar, julgar e administrar).",
+                "conceitos_chave": [
+                  "Poder Espiritual e Administrativo",
+                  "Soberania do Povo (Assembleia)",
+                  "Autoridade dos Oficiais (Ordem e Jurisdição)",
+                  "Concílios (Legislar, Julgar, Administrar)",
+                  "Equilíbrio de Poderes"
+                ],
+                "contexto_teologico": "Este artigo ilustra o equilíbrio de poder no sistema presbiteriano, onde a congregação tem voz ativa (especialmente na eleição de líderes e decisões patrimoniais), mas o governo e a disciplina eclesiástica são exercidos por oficiais eleitos e organizados em concílios. A distinção entre 'poder de ordem' (exercido individualmente por ministros em atos sacramentais) e 'poder de jurisdição' (exercido coletivamente nos concílios) é uma característica distintiva do governo presbiteriano, que visa prevenir a tirania de um único indivíduo e promover a sabedoria coletiva."
+              }
+            }
+          ]
+        },
+        {
+          "tipo": "capitulo",
+          "numero": "II",
+          "titulo": "ORGANIZAÇÃO DAS COMUNIDADES LOCAIS",
+          "artigos": [
+            {
+              "artigo": 4,
+              "texto_original": "A igreja local é uma comunidade constituída de crentes professos juntamente com seus filhos e outros menores sob sua guarda, associados para os fins mencionados no art. 2º e com governo próprio, que reside no Conselho. § 1º Ficarão a cargo dos presbitérios, juntas missionárias ou dos conselhos, conforme o caso, comunidades que ainda não podem ter governo próprio. § 2º Essas comunidades serão chamadas pontos de pregação ou congregações, conforme o seu desenvolvimento, a juízo do respectivo concílio ou junta missionária. § 3º Compete aos presbitérios ou juntas missionárias providenciar para que as comunidades, que tenham alcançado suficiente desenvolvimento, se organizem em igrejas.",
+              "analise_ia": {
+                "resumo_simples": "Define a igreja local como uma comunidade de crentes e seus dependentes, com governo próprio no Conselho. Comunidades em desenvolvimento são pontos de pregação ou congregações, supervisionadas pelos presbitérios ou juntas missionárias até que possam se organizar como igrejas.",
+                "conceitos_chave": [
+                  "Igreja Local",
+                  "Conselho (governo próprio)",
+                  "Pontos de Pregação/Congregações",
+                  "Organização Eclesiástica"
+                ],
+                "contexto_teologico": "Reafirma a natureza orgânica da igreja local, incluindo famílias, e o papel central do Conselho no seu governo. A distinção entre 'igreja local' (com governo próprio) e 'pontos de pregação/congregações' (sob supervisão) mostra a estratégia de expansão e o cuidado da IPB com o crescimento ordenado e a maturidade eclesiástica das comunidades, conforme as resoluções da CE-SC/IPB de 2006 e 2012 que detalham a formalidade do nome 'Igreja Presbiteriana de...' e rejeitam modelos como 'igrejas em células' que divergem da eclesiologia presbiteriana."
+              }
+            },
+            {
+              "artigo": 7,
+              "texto_original": "No caso de dissolver-se uma igreja, ou separar-se da Igreja Presbiteriana do Brasil, os seus bens passam a pertencer ao concílio imediatamente superior e, assim sucessivamente, até o Supremo Concílio, representado por sua Comissão Executiva, que resolverá sobre o destino dos bens em apreço. Parágrafo único. Tratando-se de cisma ou cisão em qualquer comunidade presbiteriana, os seus bens passarão a pertencer à parte fiel à Igreja Presbiteriana do Brasil e, sendo total o cisma, reverterão à referida igreja, desde que esta permaneça fiel às Escrituras do Velho e Novo Testamentos e à Confissão de Fé.",
+              "analise_ia": {
+                "resumo_simples": "Em caso de dissolução ou separação de uma igreja local, seus bens são transferidos para o concílio imediatamente superior. Em casos de cisma (divisão), os bens pertencem à parte que permanece fiel à IPB, suas Escrituras e Confissão de Fé.",
+                "conceitos_chave": [
+                  "Patrimônio Eclesiástico",
+                  "Sucessão de Bens (hierarquia conciliar)",
+                  "Cisma/Cisão",
+                  "Fidelidade Doutrinária"
+                ],
+                "contexto_teologico": "Este artigo protege o patrimônio da denominação e da doutrina reformada. Garante que os bens da igreja não sejam desviados em caso de desfiliação ou divisão, reforçando a unidade federativa da IPB. A resolução SC-1970-DOC. LXX e SC-E1-1969-DOC. II especificam o que constitui 'cisma' (adoção de doutrinas ou práticas contrárias à Confissão de Fé, ou desobediência a concílios superiores), enfatizando a importância da conformidade doutrinária e governamental."
+              }
+            }
+          ]
+        },
+        {
+          "tipo": "capitulo",
+          "numero": "III",
+          "titulo": "MEMBROS DA IGREJA",
+          "secoes": [
+            {
+              "tipo": "secao",
+              "numero": "1ª",
+              "titulo": "Classificação, Direitos e Deveres dos Membros da Igreja",
+              "artigos": [
+                {
+                  "artigo": 11,
+                  "texto_original": "São membros da Igreja Presbiteriana do Brasil as pessoas batizadas e inscritas no seu rol, bem como as que se lhe tenham unido por adesão ou transferência de outra igreja evangélica e tenham recebido o batismo bíblico.",
+                  "analise_ia": {
+                    "resumo_simples": "Membros da IPB são aqueles batizados e registrados, ou admitidos por adesão/transferência de outras igrejas evangélicas com batismo bíblico.",
+                    "conceitos_chave": [
+                      "Batismo",
+                      "Rol de Membros",
+                      "Adesão/Transferência",
+                      "Batismo Bíblico"
+                    ],
+                    "contexto_teologico": "Define a porta de entrada para a membresia na IPB, enfatizando a importância do batismo válido e do registro formal. A menção de 'batismo bíblico' é crucial, pois as resoluções CE-2013-DOC. CCII e SC-2006-DOC. XCVIII, por exemplo, clarificam a invalidez do batismo da Igreja Católica Apostólica Romana e a necessidade de batismo por profissão de fé para aqueles oriundos dela, em conformidade com a doutrina reformada."
+                  }
+                },
+                {
+                  "artigo": 14,
+                  "texto_original": "São deveres dos membros da igreja, conforme o ensino e o Espírito de nosso Senhor Jesus Cristo: a) viver de acordo com a doutrina e prática da Escritura Sagrada; b) honrar e propagar o Evangelho pela vida e pela palavra; c) sustentar a igreja e as suas instituições, moral e financeiramente; d) obedecer às autoridades da igreja, enquanto estas permanecerem fiéis às Sagradas Escrituras; e) participar dos trabalhos e reuniões da sua igreja, inclusive assembleias.",
+                  "analise_ia": {
+                    "resumo_simples": "Os membros da IPB têm o dever de viver conforme a Bíblia, evangelizar, sustentar a igreja moral e financeiramente, obedecer às autoridades eclesiásticas fiéis à Escritura, e participar ativamente da vida da igreja.",
+                    "conceitos_chave": [
+                      "Vida Cristã (doutrina e prática)",
+                      "Evangelismo",
+                      "Mordomia (sustento financeiro)",
+                      "Submissão Eclesiástica (condicional)",
+                      "Participação Ativa"
+                    ],
+                    "contexto_teologico": "Reflete os princípios da vida cristã reformada, que valoriza a santidade pessoal (viver de acordo com a Escritura), a missão evangelística, a mordomia (sustento financeiro, inclusive dízimos - SC-2018-DOC. CLXVI), a ordem eclesiástica (obediência às autoridades, mas com ressalva 'enquanto estas permanecerem fiéis às Sagradas Escrituras', o que é uma salvaguarda contra a tirania) e o engajamento comunitário. As notas remissivas mostram a preocupação da IPB com vícios sociais (álcool, fumo), maçonaria e movimentos neopentecostais, ligando o 'viver de acordo com a doutrina e prática' a questões éticas e doutrinárias específicas."
+                  }
+                }
+              ]
+            },
+            {
+              "tipo": "secao",
+              "numero": "2ª",
+              "titulo": "Admissão de Membros",
+              "artigos": [
+                {
+                  "artigo": 16,
+                  "texto_original": "A admissão aos privilégios e direitos de membro comungante da igreja dar-se-á por: a) profissão de fé dos que tiverem sido batizados na infância; b) profissão de fé e batismo; c) carta de transferência de igreja evangélica; d) jurisdição a pedido sobre os que vierem de outra comunidade evangélica; e) jurisdição ex officio sobre membros de comunidade presbiteriana, após um ano de residência nos limites da igreja; f) restauração dos que tiverem sido afastados ou excluídos dos privilégios e direitos da igreja; g) designação do Presbitério nos casos do § 1º do art. 48.",
+                  "analise_ia": {
+                    "resumo_simples": "Detalha os sete modos pelos quais uma pessoa pode se tornar membro comungante da IPB, incluindo profissão de fé (com ou sem batismo prévio), transferência, jurisdição e restauração.",
+                    "conceitos_chave": [
+                      "Profissão de Fé",
+                      "Batismo",
+                      "Transferência Eclesiástica",
+                      "Jurisdição (a pedido e ex officio)",
+                      "Restauração"
+                    ],
+                    "contexto_teologico": "Este artigo é a espinha dorsal da administração de membros. A variedade de métodos de admissão reflete a natureza federativa da IPB e sua relação com outras denominações. A 'profissão de fé e batismo' é para novos convertidos ou aqueles com batismo não reconhecido. A 'jurisdição ex officio' (item 'e') e a 'carta de transferência' (item 'c') facilitam a mobilidade de membros presbiterianos. As notas explicativas (CE-2012-DOC. CLX e SC-1978-DOC. XXXVI, SC-2010-DOC. XIX, SC-2010-DOC. XXI, SC-2014-DOC. XLVI) são particularmente importantes, pois definem o que a IPB considera 'igreja evangélica' e 'seita', instruindo sobre a necessidade de batismo e profissão de fé para membros oriundos de certas denominações, como a Igreja Universal do Reino de Deus (IURD) ou Igreja Mundial do Poder de Deus (IMPD), e proibindo a aceitação de membros em 'união estável' (SC-E-2014-DOC. CXLIII)."
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "capitulo",
+          "numero": "IV",
+          "titulo": "OFICIAIS",
+          "secoes": [
+            {
+              "tipo": "secao",
+              "numero": "1ª",
+              "titulo": "Classificação",
+              "artigos": [
+                {
+                  "artigo": 25,
+                  "texto_original": "A igreja exerce as suas funções na esfera da doutrina, governo e beneficência, mediante oficiais que se classificam em: a) ministros do Evangelho ou presbíteros docentes; b) presbíteros regentes; c) diáconos. § 1º Estes ofícios são perpétuos, mas o seu exercício é temporário. § 2º Para o oficialato só poderão ser votados homens maiores de dezoito anos e civilmente capazes.",
+                  "analise_ia": {
+                    "resumo_simples": "A IPB possui três classes de oficiais (ministros/presbíteros docentes, presbíteros regentes e diáconos) que atuam em doutrina, governo e beneficência. Os ofícios são perpétuos, mas seu exercício é temporário, e somente homens, maiores de 18 anos e civilmente capazes, podem ser eleitos.",
+                    "conceitos_chave": [
+                      "Oficiais da Igreja",
+                      "Presbíteros Docentes (Ministros)",
+                      "Presbíteros Regentes",
+                      "Diáconos",
+                      "Ofício Perpétuo vs. Exercício Temporário",
+                      "Elegibilidade (homens, idade, capacidade civil)"
+                    ],
+                    "contexto_teologico": "Este artigo define a estrutura de liderança eclesiástica da IPB. A distinção entre 'presbíteros docentes' (ministros) e 'presbíteros regentes' é central para a governança presbiteriana, onde ambos têm autoridade no governo da igreja, mas o ministro tem funções privativas específicas (Art. 31). A perpetuidade do ofício significa que, uma vez ordenado, o status permanece, mesmo que não esteja em exercício ativo. A limitação a 'homens' para o oficialato é uma posição confessional e histórica da IPB, explicitamente reafirmada em resoluções como SC-2018-DOC. CLXVII e SC-1974-DOC. LVIII, que proíbem a ordenação de mulheres ao diaconato ou a qualquer outro ofício."
+                  }
+                }
+              ]
+            },
+            {
+              "tipo": "secao",
+              "numero": "2ª",
+              "titulo": "Ministros do Evangelho",
+              "artigos": [
+                {
+                  "artigo": 31,
+                  "texto_original": "São funções privativas do ministro: a) administrar os sacramentos; b) invocar a bênção apostólica sobre o povo de Deus; c) celebrar o casamento religioso com efeito civil; d) orientar e supervisionar a liturgia na igreja de que é pastor.",
+                  "analise_ia": {
+                    "resumo_simples": "As funções exclusivas do ministro incluem administrar os sacramentos (Batismo e Ceia do Senhor), invocar a bênção apostólica, celebrar casamento religioso com efeito civil, e orientar a liturgia da igreja.",
+                    "conceitos_chave": [
+                      "Funções Privativas do Ministro",
+                      "Administração de Sacramentos",
+                      "Bênção Apostólica",
+                      "Casamento Religioso com Efeito Civil",
+                      "Supervisão Litúrgica"
+                    ],
+                    "contexto_teologico": "Este artigo é crucial para diferenciar o papel do ministro (presbítero docente) dos presbíteros regentes e diáconos. A exclusividade na administração dos sacramentos e da bênção apostólica (SC-2018-DOC. CVI) reflete a doutrina reformada de que esses atos devem ser realizados por ministros legalmente ordenados ('nenhum destes sacramentos deve ser administrado senão pelos ministros da palavra legalmente ordenados' - CFW XXVII.IV). A supervisão da liturgia também garante a conformidade com os Padrões de Fé da IPB (CE-1995-DOC. CXXIV, CE-1982-DOC. LXXXIV), evitando 'fogo estranho' ou práticas não bíblicas."
+                  }
+                },
+                {
+                  "artigo": 35,
+                  "texto_original": "O sustento do Pastor Efetivo e do Pastor Auxiliar cabe às igrejas que fixarão os vencimentos, com aprovação do Presbitério; os pastores evangelistas serão mantidos pelos presbitérios; os missionários, pelas organizações responsáveis.",
+                  "analise_ia": {
+                    "resumo_simples": "As igrejas são responsáveis pelo sustento dos Pastores Efetivos e Auxiliares (com aprovação do Presbitério), enquanto os Presbitérios mantêm os Pastores Evangelistas e as organizações responsáveis cuidam dos Missionários.",
+                    "conceitos_chave": [
+                      "Sustento Ministerial",
+                      "Responsabilidade Financeira (Igrejas, Presbitérios, Organizações)",
+                      "Aprovação do Presbitério"
+                    ],
+                    "contexto_teologico": "Este artigo aborda a 'mordomia' da igreja em relação aos seus líderes, um princípio bíblico de que 'o trabalhador é digno do seu salário'. Ele distribui a responsabilidade pelo sustento conforme o tipo de ministério e a jurisdição, garantindo que os ministros possam dedicar-se integralmente ao serviço. As notas (SC-E-2014-DOC. LXXVII, SC-2014-DOC. CLIV, CE-2018-DOC. CXIV, CE-2019-DOC. CXCI) detalham aspectos fiscais (INSS, imposto de renda) e o valor mínimo das côngruas pastorais, reforçando a seriedade da IPB com o bem-estar de seus ministros e a conformidade legal, além de proibir o pagamento de côngruas via pessoa jurídica (nota fiscal)."
+                  }
+                }
+              ]
+            },
+            {
+              "tipo": "secao",
+              "numero": "3ª",
+              "titulo": "Presbíteros e Diáconos",
+              "artigos": [
+                {
+                  "artigo": 50,
+                  "texto_original": "O Presbítero Regente é o representante imediato do povo, por este eleito e ordenado pelo Conselho, para, juntamente com o pastor, exercer o governo e a disciplina e zelar pelos interesses da igreja a que pertencer, bem como pelos de toda a comunidade, quando para isso eleito ou designado.",
+                  "analise_ia": {
+                    "resumo_simples": "O Presbítero Regente é eleito pelo povo e ordenado pelo Conselho para, junto com o pastor, governar, disciplinar e zelar pelos interesses da igreja local e da comunidade presbiteriana em geral.",
+                    "conceitos_chave": [
+                      "Presbítero Regente",
+                      "Representação do Povo",
+                      "Governo Eclesiástico",
+                      "Disciplina Eclesiástica"
+                    ],
+                    "contexto_teologico": "Este artigo define o 'presbiterianismo' em sua essência: o governo da igreja por presbíteros (anciãos). O presbítero regente, leigo, compartilha com o pastor (presbítero docente) a responsabilidade pelo governo e disciplina, refletindo o princípio de que o poder não está concentrado em um só ofício, mas distribuído colegiadamente. A eleição pelo 'povo' sublinha a natureza representativa do seu ofício."
+                  }
+                },
+                {
+                  "artigo": 53,
+                  "texto_original": "O diácono é o oficial eleito pela igreja e ordenado pelo Conselho, para, sob a supervisão deste, dedicar-se especialmente: a) à arrecadação de ofertas para fins piedosos; b) ao cuidado dos pobres, doentes e inválidos; c) à manutenção da ordem e reverência nos lugares reservados ao serviço divino; d) exercer a fiscalização para que haja boa ordem na Casa de Deus e suas dependências.",
+                  "analise_ia": {
+                    "resumo_simples": "O diácono é um oficial eleito pela igreja e ordenado pelo Conselho, dedicado à beneficência (cuidado com os necessitados), arrecadação de ofertas e manutenção da ordem nos locais de culto.",
+                    "conceitos_chave": [
+                      "Diácono",
+                      "Beneficência (diaconia)",
+                      "Mordomia (ofertas)",
+                      "Ordem no Culto"
+                    ],
+                    "contexto_teologico": "O ofício diaconal tem raízes bíblicas em Atos 6 e é fundamental na IPB para o serviço e a assistência social. Diferente dos presbíteros, sua função é primariamente de 'serviço' e não de 'governo' da doutrina ou disciplina, embora trabalhe sob a supervisão do Conselho. As notas (SC-1974-DOC. LVIII, SC-E-2014-DOC. XIX) reiteram a posição confessional da IPB de não ordenar diaconisas, atribuindo a elas o cuidado com os enfermos, presos, viúvas e órfãos, mas não o ofício ordenado, distinguindo a prática da IPB de outras denominações que permitem o diaconato feminino ordenado."
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "capitulo",
+          "numero": "V",
+          "titulo": "CONCÍLIOS",
+          "secoes": [
+            {
+              "tipo": "secao",
+              "numero": "1ª",
+              "titulo": "Concílios em Geral",
+              "artigos": [
+                {
+                  "artigo": 59,
+                  "texto_original": "Os concílios da Igreja Presbiteriana do Brasil são assembleias constituídas de ministros e presbíteros regentes.",
+                  "analise_ia": {
+                    "resumo_simples": "Os concílios da IPB são compostos por ministros (presbíteros docentes) e presbíteros regentes, refletindo a natureza do governo presbiteriano.",
+                    "conceitos_chave": [
+                      "Concílios",
+                      "Ministros (Presbíteros Docentes)",
+                      "Presbíteros Regentes",
+                      "Governo Colegiado"
+                    ],
+                    "contexto_teologico": "Este artigo reafirma que o governo da IPB é conciliar e colegiado, combinando os dois tipos de presbíteros (ministros e regentes). Isso garante a representatividade tanto do ministério pastoral quanto do corpo de anciãos eleitos pela congregação, diferenciando-se de sistemas episcopais (com governo de bispos) ou congregacionais (com governo da assembleia local sem concílios superiores)."
+                  }
+                },
+                {
+                  "artigo": 61,
+                  "texto_original": "Os concílios guardam entre si gradação de governo e disciplina; e, embora cada um exerça jurisdição original e exclusiva sobre todas as matérias da sua competência, os inferiores estão sujeitos à autoridade, inspeção e disciplina dos superiores.",
+                  "analise_ia": {
+                    "resumo_simples": "Os concílios da IPB operam em uma hierarquia de governo e disciplina, onde cada um tem jurisdição original, mas os inferiores estão subordinados à autoridade, inspeção e disciplina dos superiores.",
+                    "conceitos_chave": [
+                      "Gradação de Concílios",
+                      "Jurisdição Original e Exclusiva",
+                      "Subordinação (inferior a superior)",
+                      "Unidade Eclesiástica"
+                    ],
+                    "contexto_teologico": "Este é um princípio fundamental do presbiterianismo: a interconexão e a mútua responsabilidade entre os concílios. Embora o Conselho de uma igreja local tenha sua esfera de atuação ('jurisdição original e exclusiva'), ele não é autônomo, estando sujeito ao Presbitério, que por sua vez está sujeito ao Sínodo, e este ao Supremo Concílio. Isso visa manter a unidade doutrinária e disciplinar em toda a denominação."
+                  }
+                },
+                {
+                  "artigo": 69,
+                  "texto_original": "A autoridade dos concílios é espiritual, declarativa e judiciária, sendo-lhes vedado infligir castigos ou penas temporais e formular resoluções que, contrárias à Palavra de Deus, obriguem a consciência dos crentes.",
+                  "analise_ia": {
+                    "resumo_simples": "A autoridade dos concílios é de natureza espiritual, declarativa (interpreta a lei eclesiástica) e judiciária (julga e disciplina), não podendo impor penas civis nem resoluções que contradigam a Bíblia ou firam a consciência dos crentes.",
+                    "conceitos_chave": [
+                      "Autoridade Espiritual",
+                      "Autoridade Declarativa",
+                      "Autoridade Judiciária",
+                      "Limites da Autoridade Eclesiástica",
+                      "Liberdade de Consciência (sob a Palavra de Deus)"
+                    ],
+                    "contexto_teologico": "Este artigo é uma salvaguarda importante da liberdade de consciência e da supremacia das Escrituras. A IPB, como denominação protestante, rejeita qualquer autoridade eclesiástica que se coloque acima da Palavra de Deus. A proibição de 'penas temporais' (civis) reflete a separação entre Igreja e Estado. A autoridade 'declarativa' significa que os concílios não criam doutrina, mas a declaram e aplicam conforme a Bíblia e os Símbolos de Fé (CD, art. 4º, parágrafo único)."
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "capitulo",
+          "numero": "VII",
+          "titulo": "ORDENS DA IGREJA",
+          "secoes": [
+            {
+              "tipo": "secao",
+              "numero": "1ª",
+              "titulo": "Doutrina da Vocação",
+              "artigos": [
+                {
+                  "artigo": 108,
+                  "texto_original": "Vocação para ofício na igreja é a chamada de Deus, pelo Espírito Santo, mediante o testemunho interno de uma boa consciência e a aprovação do povo de Deus, por intermédio de um concílio.",
+                  "analise_ia": {
+                    "resumo_simples": "A vocação para um ofício na igreja é um chamado divino, confirmado pela consciência do indivíduo e aprovado pelo povo de Deus através de um concílio.",
+                    "conceitos_chave": [
+                      "Vocação Divina (chamada interna)",
+                      "Testemunho da Consciência",
+                      "Aprovação Eclesiástica (chamada externa)",
+                      "Concílio"
+                    ],
+                    "contexto_teologico": "Este artigo sintetiza a doutrina reformada da vocação, distinguindo entre a 'chamada interna' (a convicção pessoal do chamado de Deus) e a 'chamada externa' (o reconhecimento e a aprovação desse chamado pela igreja organizada, através dos concílios). Ambas são necessárias para o exercício legítimo de um ofício. Isso garante que não apenas a piedade pessoal, mas também a qualificação e o reconhecimento comunitário sejam critérios para o ministério."
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "disposicoes",
+          "titulo": "DISPOSIÇÕES GERAIS",
+          "artigos": [
+            {
+              "artigo": 139,
+              "texto_original": "Esta Constituição, a Confissão de Fé e os Catecismos Maior e Breve, em vigor na Igreja Presbiteriana do Brasil, não podem ser emendados ou reformados senão por iniciativa do Supremo Concílio. Parágrafo único. Emendas são modificações que atingem apenas partes da Constituição ou dos Símbolos de Fé; Reforma é a alteração que modifica o todo ou grande parte destes.",
+              "analise_ia": {
+                "resumo_simples": "A Constituição, a Confissão de Fé e os Catecismos da IPB só podem ser alterados (emendados ou reformados) por iniciativa do Supremo Concílio, com 'emendas' sendo mudanças parciais e 'reformas' sendo alterações amplas.",
+                "conceitos_chave": [
+                  "Imutabilidade Doutrinária (relativa)",
+                  "Processo de Emenda/Reforma",
+                  "Supremo Concílio (iniciativa exclusiva)",
+                  "Símbolos de Fé (Confissão e Catecismos)"
+                ],
+                "contexto_teologico": "Este artigo demonstra a seriedade com que a IPB trata seus documentos doutrinários e constitucionais. A dificuldade e a formalidade do processo de alteração (exigindo iniciativa do Supremo Concílio e aprovação de grande parte dos presbitérios, como detalhado no Art. 140 e 141) visam proteger a pureza doutrinária e a estabilidade institucional da denominação contra mudanças precipitadas ou influências externas. A distinção entre 'emenda' e 'reforma' mostra o grau de alteração proposta."
+                }
+            },
+            {
+              "artigo": 145,
+              "texto_original": "São nulas de pleno direito quaisquer disposições que, no todo ou em parte, implícita ou expressamente, contrariarem ou ferirem a Constituição da Igreja Presbiteriana do Brasil. Parágrafo único. Este artigo deve constar obrigatoriamente dos estatutos dos concílios, das igrejas e de todas as demais organizações da Igreja Presbiteriana do Brasil, inclusive as sociedades internas.",
+              "analise_ia": {
+                "resumo_simples": "Qualquer regra ou decisão que contrarie a Constituição da IPB é nula. Este artigo deve ser incluído obrigatoriamente nos estatutos de todos os concílios e organizações da IPB.",
+                "conceitos_chave": [
+                  "Supremacia Constitucional",
+                  "Nulidade Legal",
+                  "Consistência Doutrinária e Administrativa"
+                ],
+                "contexto_teologico": "Este artigo é uma 'cláusula pétrea' que assegura a supremacia da Constituição da IPB sobre todas as outras regulamentações internas. Garante que todas as decisões e estatutos de níveis inferiores estejam em conformidade com o documento mestre, mantendo a unidade e a coerência doutrinária e administrativa em toda a federação. Sua obrigatoriedade em outros estatutos serve como um lembrete constante dessa supremacia."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo_documento_legal": "Código de Disciplina (CD)",
+      "capitulos": [
+        {
+          "tipo": "preambulo",
+          "titulo": "PREÂMBULO",
+          "texto_original": "Em nome do Pai, e do Filho, e do Espírito Santo, nós, legítimos representantes da Igreja Presbiteriana do Brasil, reunidos em Supremo Concílio, no ano de 1951, investidos de toda a autoridade para cumprir as resoluções das legislaturas de 1946 e de 1950, com toda a confiança na bênção de Deus, nosso Pai, e visando exercer a justiça, manter a paz, sustentar a disciplina, preservar a unidade e promover a edificação da igreja de Cristo, decretamos e promulgamos, para glória de Deus, o seguinte Código de Disciplina. Texto promulgado em 13 de fevereiro de 1951 (SC – 1951 – DOC. XLII). De acordo com a resolução CE – 1952 – DOC. LVI – “Códigos e Siglas das Organizações da IPB” – os diplomas legais eclesiásticos tiveram suas abreviaturas expressamente definidas. O Código de Disciplina ficou com a sigla CD.",
+          "analise_ia": {
+            "resumo_simples": "O Preâmbulo do Código de Disciplina, promulgado em 1951 pelo Supremo Concílio, estabelece o propósito de exercer justiça, manter a paz, sustentar a disciplina, preservar a unidade e promover a edificação da igreja, para a glória de Deus. Define a sigla CD.",
+            "conceitos_chave": [
+              "Justiça Eclesiástica",
+              "Paz e Unidade da Igreja",
+              "Edificação",
+              "Glória de Deus",
+              "Autoridade (Supremo Concílio)"
+            ],
+            "contexto_teologico": "Similar ao Preâmbulo da Constituição, este texto reforça a base trinitária e a finalidade teológica da disciplina eclesiástica, que não é punitiva por si só, mas restauradora e zelosa pela pureza e boa ordem da Igreja. A disciplina é vista como um meio de graça para proteger a honra de Cristo e o bem dos culpados, conforme o Art. 2º do próprio Código."
+          }
+        },
+        {
+          "tipo": "capitulo",
+          "numero": "I",
+          "titulo": "NATUREZA E FINALIDADE",
+          "artigos": [
+            {
+              "artigo": 2,
+              "texto_original": "Disciplina eclesiástica é o exercício da jurisdição espiritual da igreja sobre seus membros, aplicada de acordo com a Palavra de Deus. Parágrafo único. Toda disciplina visa edificar o povo de Deus, corrigir escândalos, erros ou faltas, promover a honra de Deus, a glória de Nosso Senhor Jesus Cristo e o próprio bem dos culpados.",
+              "analise_ia": {
+                "resumo_simples": "A disciplina eclesiástica é a jurisdição espiritual da igreja sobre seus membros, baseada na Bíblia, e tem como objetivo edificar, corrigir, honrar a Deus e promover o bem do faltoso.",
+                "conceitos_chave": [
+                  "Jurisdição Espiritual",
+                  "Palavra de Deus (base)",
+                  "Edificação",
+                  "Correção",
+                  "Glória de Deus",
+                  "Bem do Culpado"
+                ],
+                "contexto_teologico": "Este artigo é a espinha dorsal da compreensão presbiteriana da disciplina. Ela é distintamente 'espiritual' e não civil, e seu fundamento é a Escritura. A finalidade não é meramente punir, mas principalmente restaurar o faltoso ('o próprio bem dos culpados'), manter a integridade do testemunho da igreja ('honra de Deus, a glória de Nosso Senhor Jesus Cristo') e corrigir o pecado ('corrigir escândalos, erros ou faltas'), refletindo a pedagogia divina com seu povo."
+              }
+            }
+          ]
+        },
+        {
+          "tipo": "capitulo",
+          "numero": "II",
+          "titulo": "FALTAS",
+          "artigos": [
+            {
+              "artigo": 4,
+              "texto_original": "Falta é tudo que, na doutrina e prática dos membros e concílios da igreja, não esteja de conformidade com os ensinos da Sagrada Escritura, ou transgrida e prejudique a paz, a unidade, a pureza, a ordem e a boa administração da comunidade cristã. Parágrafo único. Nenhum tribunal eclesiástico poderá considerar como falta, ou admitir como matéria de acusação aquilo que não possa ser provado como tal pela Escritura, segundo a interpretação dos Símbolos da Igreja (CI, art. 1º).",
+              "analise_ia": {
+                "resumo_simples": "Falta é qualquer coisa na doutrina ou prática de membros e concílios que não esteja de acordo com a Bíblia, ou que prejudique a paz, unidade, pureza, ordem e administração da igreja. Nenhuma acusação é válida se não puder ser provada pela Escritura e pelos Símbolos de Fé.",
+                "conceitos_chave": [
+                  "Definição de Falta",
+                  "Norma (Escritura e Símbolos de Fé)",
+                  "Impacto na Comunidade (paz, unidade, pureza, ordem)",
+                  "Princípio da Legalidade Eclesiástica"
+                ],
+                "contexto_teologico": "Este artigo é crucial para definir o que pode ser objeto de disciplina. Ele estabelece a 'Sola Scriptura' e os Símbolos de Fé (Confissão de Fé e Catecismos) como a única base para definir uma falta, protegendo contra arbitrariedades ou acusações baseadas em opiniões pessoais. A referência à 'paz, unidade, pureza, a ordem e a boa administração' ressalta que o pecado não é apenas individual, mas tem impactos comunitários e institucionais na igreja. A nota do Art. 4º remete ao Art. 69 da CI/IPB, que veda aos concílios formular resoluções contrárias à Palavra de Deus."
+              }
+            }
+          ]
+        },
+        {
+          "tipo": "capitulo",
+          "numero": "III",
+          "titulo": "PENALIDADES",
+          "artigos": [
+            {
+              "artigo": 9,
+              "texto_original": "Os concílios só podem aplicar a pena de: a) admoestação, que consiste em chamar à ordem o culpado, verbalmente ou por escrito, de modo reservado, exortando-o a corrigir-se; b) afastamento, que em referência aos membros da igreja, consiste em serem impedidos de comunhão; em referência, porém, aos oficiais, consiste em serem impedidos do exercício do seu ofício e, se for o caso, da comunhão da igreja. O afastamento deve dar-se quando o crédito da religião, a honra de Cristo e o bem do faltoso o exigem, mesmo depois de ter dado satisfação ao tribunal. Aplica-se por tempo indeterminado, até o faltoso dar prova do seu arrependimento, ou até que a sua conduta mostre a necessidade de lhe ser imposta outra pena mais severa; c) exclusão, que consiste em eliminar o faltoso da comunhão da igreja. Esta pena só pode ser imposta quando o faltoso se mostra incorrigível e contumaz; d) deposição é a destituição de ministro, presbítero ou diácono de seu ofício.",
+              "analise_ia": {
+                "resumo_simples": "Os concílios podem aplicar quatro tipos de penas: admoestação (correção reservada), afastamento (impedimento de comunhão ou ofício por tempo indeterminado, visando arrependimento), exclusão (remoção da comunhão para casos incorrigíveis e contumazes) e deposição (destituição de oficiais do cargo).",
+                "conceitos_chave": [
+                  "Tipos de Penas Eclesiásticas",
+                  "Admoestação",
+                  "Afastamento (comunhão/ofício)",
+                  "Exclusão",
+                  "Deposição (oficiais)",
+                  "Natureza Restauradora da Disciplina"
+                ],
+                "contexto_teologico": "Este artigo detalha as sanções disciplinares, que são graduais e visam, em primeiro lugar, a restauração. A 'admoestação' é a forma mais leve de correção. O 'afastamento' é uma medida mais séria, mas ainda com foco restaurador ('até o faltoso dar prova do seu arrependimento'). A 'exclusão' é a medida extrema, aplicada apenas a casos de incorrigibilidade, e a 'deposição' para oficiais que violam seus compromissos. As notas reforçam que o afastamento, mesmo que por tempo indeterminado, não é um fim em si, mas um meio para o arrependimento, e que o sustento pastoral de ministro sob disciplina pode ser analisado com 'graça e misericórdia' (CE-2009-DOC. CXXVIII)."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo_documento_legal": "Princípios de Liturgia (PL)",
+      "capitulos": [
+        {
+          "tipo": "preambulo",
+          "titulo": "PREÂMBULO",
+          "texto_original": "Em nome do Pai, e do Filho, e do Espírito Santo, nós, legítimos representantes da Igreja Presbiteriana do Brasil, reunidos em Supremo Concílio, no ano de 1951, investidos de toda autoridade para cumprir as determinações das legislaturas de 1946 e de 1950, depositando a nossa confiança inteiramente na direção, unção e iluminação do Espírito de Deus, e tendo em vista a conversão das almas, a santificação dos crentes e a edificação da igreja, decretamos e promulgamos, para glória de Deus, os seguintes Princípios de Liturgia. Texto promulgado em 13 de fevereiro de 1951 (SC – 1951 – DOC. XLII). De acordo com a resolução CE – 1952 – DOC. LVI – “Códigos e Siglas das Organizações da IPB” – os diplomas legais eclesiásticos tiveram suas abreviaturas expressamente definidas. Aos Princípios de Liturgia foi atribuída a sigla PL.",
+          "analise_ia": {
+            "resumo_simples": "O Preâmbulo dos Princípios de Liturgia, promulgado em 1951, estabelece as diretrizes para o culto da IPB, visando a conversão, santificação e edificação da igreja, sob a direção do Espírito Santo e para a glória de Deus. Define a sigla PL.",
+            "conceitos_chave": [
+              "Direção do Espírito Santo",
+              "Conversão e Santificação",
+              "Edificação da Igreja",
+              "Glória de Deus",
+              "Liturgia Presbiteriana"
+            ],
+            "contexto_teologico": "Este preâmbulo enfatiza a centralidade do Espírito Santo na adoração e os resultados esperados da liturgia: transformação individual e coletiva. A liturgia presbiteriana busca ser ordenada, reverente e bíblica, promovendo uma experiência de culto que é tanto racional quanto espiritual, e que se alinha aos princípios da Reforma Protestante. A data de promulgação (1951) mostra a importância de ter um documento formal para a prática do culto após a Constituição."
+          }
+        },
+        {
+          "tipo": "capitulo",
+          "numero": "I",
+          "titulo": "O DIA DO SENHOR",
+          "artigos": [
+            {
+              "artigo": 1,
+              "texto_original": "É dever de todos os homens lembrar-se do Dia do Senhor (Domingo) e preparar-se com antecedência para guardá-lo. Todos os negócios temporais devem ser postos de parte e ordenados de tal sorte que não os impeçam de santificar o Domingo pelo modo requerido nas Sagradas Escrituras.",
+              "analise_ia": {
+                "resumo_simples": "É dever de todos santificar o Dia do Senhor (Domingo), separando-o de negócios seculares e preparando-se para observá-lo conforme as Escrituras.",
+                "conceitos_chave": [
+                  "Santificação do Domingo",
+                  "Descanso (sabático)",
+                  "Observância Bíblica",
+                  "Prioridade Espiritual"
+                ],
+                "contexto_teologico": "Este artigo reflete a forte ênfase da teologia reformada na observância do Dia do Senhor (Domingo) como um dia de descanso e adoração. Baseia-se no Quarto Mandamento (Êxodo 20:8-11) e na interpretação da Confissão de Fé de Westminster (Capítulo XXI, Seção VIII) e do Catecismo Maior (Pergunta 117). As notas remissivas (SC-1912-017, CE-1992-DOC. LXXXVIII, CE-2004-DOC. XLII, SC-2018-DOC. CCXLIII) demonstram a preocupação histórica da IPB com a profanação do domingo, incluindo a participação em eleições, esportes profissionais e reuniões conciliares, enfatizando a necessidade de separar-se de atividades seculares para dedicar-se aos 'exercícios públicos e particulares do culto de Deus'."
+              }
+            }
+          ]
+        },
+        {
+          "tipo": "capitulo",
+          "numero": "III",
+          "titulo": "CULTO PÚBLICO",
+          "artigos": [
+            {
+              "artigo": 7,
+              "texto_original": "O culto público é um ato religioso, através do qual o povo de Deus adora o Senhor, entrando em comunhão com ele, fazendo-lhe confissão de pecados e buscando, pela mediação de Jesus Cristo, o perdão, a santificação da vida e o crescimento espiritual. É ocasião oportuna para proclamação da mensagem redentora do Evangelho de Cristo e para doutrinação e congraçamento dos crentes.",
+              "analise_ia": {
+                "resumo_simples": "O culto público é um ato de adoração, comunhão com Deus, confissão, busca por perdão e santificação, e serve para proclamar o Evangelho, doutrinar e unir os crentes.",
+                "conceitos_chave": [
+                  "Adoração",
+                  "Comunhão com Deus",
+                  "Confissão e Perdão",
+                  "Santificação",
+                  "Crescimento Espiritual",
+                  "Proclamação do Evangelho",
+                  "Doutrinação",
+                  "Congraçamento"
+                ],
+                "contexto_teologico": "Este artigo define a natureza teocêntrica e multifacetada do culto público na IPB. Ele não é apenas uma reunião social, mas um encontro solene e transformador com Deus, mediado por Cristo. A ênfase na 'mensagem redentora do Evangelho' e na 'doutrinação' reflete a prioridade reformada da pregação da Palavra. As notas (CE-1995-DOC. CXXIV, CE-2005-DOC. XVIII) são extensas e detalham a teocentricidade do culto, a rejeição de modismos e a necessidade de que a liturgia seja intelligível e conforme as Escrituras e a Confissão de Fé de Westminster, repudiando práticas como 'bater palmas', 'danças litúrgicas e coreografias' ou 'práticas neopentecostais'."
+              }
+            },
+            {
+              "artigo": 8,
+              "texto_original": "O culto público consta ordinariamente de leitura da Palavra de Deus, pregação, cânticos sagrados, orações e ofertas. A ministração dos sacramentos, quando realizada no culto público, faz parte dele.",
+              "analise_ia": {
+                "resumo_simples": "Os elementos usuais do culto público são a leitura da Bíblia, pregação, cânticos, orações e ofertas. A administração dos sacramentos (Batismo e Ceia) também integra o culto quando realizada publicamente.",
+                "conceitos_chave": [
+                  "Elementos do Culto",
+                  "Leitura da Palavra",
+                  "Pregação",
+                  "Cânticos Sagrados",
+                  "Orações",
+                  "Ofertas",
+                  "Sacramentos"
+                ],
+                "contexto_teologico": "Este artigo descreve os componentes essenciais do 'culto regulado', um princípio reformado que dita que a adoração a Deus deve incluir apenas o que Ele explicitamente ordenou na Sua Palavra. A prioridade da Palavra (leitura e pregação) é evidente. As notas (SC-1954-DOC. CXLV, SC-2006-DOC. CXXXIX, SC-2010-DOC. CLXII, SC-2018-DOC. CLXVII) demonstram a preocupação com a pureza do púlpito, vedando a pregação de mulheres ordenadas em outras denominações e de ministros com doutrinas contrárias aos Símbolos de Fé da IPB, e rejeitando 'práticas neopuritanas' ou 'neopentecostais' que não se alinham à teologia reformada do culto."
+              }
+            }
+          ]
+        },
+        {
+          "tipo": "capitulo",
+          "numero": "V",
+          "titulo": "BATISMO DE CRIANÇAS",
+          "artigos": [
+            {
+              "artigo": 11,
+              "texto_original": "Os membros da Igreja Presbiteriana do Brasil devem apresentar seus filhos para o batismo, não devendo negligenciar essa ordenança.",
+              "analise_ia": {
+                "resumo_simples": "Os membros da IPB têm o dever de apresentar seus filhos para o batismo e não devem negligenciar essa ordenança.",
+                "conceitos_chave": [
+                  "Dever dos Pais",
+                  "Batismo Infantil",
+                  "Ordenança"
+                ],
+                "contexto_teologico": "Este artigo reafirma a doutrina pactual (da aliança) da IPB, que inclui os filhos dos crentes na aliança da graça e, portanto, no sinal do batismo. É um dever que a igreja impõe aos seus membros, e a negligência pode ser objeto de instrução pastoral ou disciplina (SC-1958-DOC. CV). As notas (SC-1990-DOC. CL, CE-2004-DOC. XXXVIII, SC-2006-DOC. XCVIII) são extensas e reiteram a posição da IPB de que o batismo católico-romano não é válido e, portanto, aqueles oriundos da ICAR devem ser batizados por profissão de fé, em contraste com a prática de 'rebatismo' que a IPB não adota."
+              }
+            }
+          ]
+        },
+        {
+          "tipo": "capitulo",
+          "numero": "VII",
+          "titulo": "ADMINISTRAÇÃO DA CEIA DO SENHOR",
+          "artigos": [
+            {
+              "artigo": 13,
+              "texto_original": "A Santa Comunhão ou Ceia do Senhor deve ser celebrada com frequência e compete ao Conselho, ou ministro, tratando-se de congregação, decidir quanto às ocasiões em que deve ser administrada, para maior proveito e edificação dos crentes.",
+              "analise_ia": {
+                "resumo_simples": "A Ceia do Senhor deve ser celebrada com frequência, sendo a decisão sobre sua ocasião de responsabilidade do Conselho (ou ministro em congregações), visando o proveito e a edificação dos crentes.",
+                "conceitos_chave": [
+                  "Frequência da Ceia",
+                  "Conselho (autoridade)",
+                  "Edificação dos Crentes"
+                ],
+                "contexto_teologico": "Este artigo enfatiza a importância da Ceia do Senhor como um meio de graça regular na vida da igreja. A decisão sobre a frequência é delegada ao Conselho (ou ministro), permitindo flexibilidade pastoral para melhor atender às necessidades de edificação da congregação. A nota SC-E-2014-DOC. XXV discute a administração da Ceia a enfermos e idosos, reafirmando que a congregação não se limita ao ajuntamento físico e que a prática não desqualifica a Confissão de Fé de Westminster."
+              }
+            }
+          ]
+        },
+        {
+          "tipo": "capitulo",
+          "numero": "VIII",
+          "titulo": "BÊNÇÃO MATRIMONIAL",
+          "artigos": [
+            {
+              "artigo": 18,
+              "texto_original": "Sobre o casamento realizado segundo as leis do País e a Palavra de Deus, o ministro, quando solicitado, invocará as bênçãos do Senhor.",
+              "analise_ia": {
+                "resumo_simples": "O ministro pode invocar as bênçãos do Senhor sobre casamentos que estejam em conformidade tanto com as leis civis do Brasil quanto com a Palavra de Deus, mediante solicitação.",
+                "conceitos_chave": [
+                  "Casamento Civil",
+                  "Palavra de Deus (base bíblica)",
+                  "Bênção Pastoral"
+                ],
+                "contexto_teologico": "Este artigo estabelece que a IPB reconhece a validade do casamento civil, conforme as leis do país, e a importância da bênção pastoral, mas sempre alinhado aos princípios bíblicos. As extensas notas remissivas (SC-1942-DOC. XXXI, SC-1958-DOC. CII, SC-1966-DOC. LXXIX, CE-1987-DOC. CX, SC-E-2014-DOC. CXLIII, SC-2018-DOC. CXII) demonstram a complexidade da questão e a posição da IPB em relação a 'casamentos mistos', divórcio e novo casamento, e 'união estável', com uma clara rejeição à aceitação desta última para membresia. A IPB também se posiciona contra casamentos entre colaterais de 3º grau, mesmo que legalmente permitidos no Brasil, por entender que contrariam os 'padrões da Lei divina'."
+              }
+            }
+          ]
+        },
+        {
+          "tipo": "capitulo",
+          "numero": "XIV",
+          "titulo": "ORDENAÇÃO DE MINISTROS",
+          "artigos": [
+            {
+              "artigo": 33,
+              "texto_original": "O novo ministro, por ocasião da cerimônia de ordenação, reafirmará sua crença nas Escrituras Sagradas como a Palavra de Deus, bem como a sua lealdade à Confissão de Fé, aos Catecismos e à Constituição da Igreja Presbiteriana do Brasil. Prometerá também cumprir com zelo e fidelidade o seu ofício, manter e promover a paz, unidade, edificação e pureza da igreja.",
+              "analise_ia": {
+                "resumo_simples": "Na ordenação, o novo ministro deve reafirmar sua crença na Bíblia, lealdade aos Símbolos de Fé da IPB e à Constituição, e prometer zelar pela paz, unidade, edificação e pureza da igreja.",
+                "conceitos_chave": [
+                  "Compromisso Ministerial",
+                  "Supremacia da Bíblia",
+                  "Lealdade Confessional (Símbolos de Fé)",
+                  "Fidelidade Constitucional",
+                  "Zelo Pastoral"
+                ],
+                "contexto_teologico": "Este artigo estabelece os votos solenes que um ministro da IPB faz, que são a base de sua conduta e doutrina. A reiteração da crença na Bíblia, lealdade à Confissão de Fé de Westminster e Catecismos, e à Constituição é fundamental para a manutenção da ortodoxia e da unidade doutrinária da denominação. A promessa de zelar pela 'paz, unidade, edificação e pureza da igreja' delineia as responsabilidades pastorais, e as notas (CE-2003-DOC. IX) reforçam que a não observância desses votos pode levar a penas disciplinares."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo_documento_legal": "Estatuto da IPB",
+      "capitulos": [
+        {
+          "tipo": "capitulo",
+          "numero": "I",
+          "titulo": "DEFINIÇÃO E FINS",
+          "artigos": [
+            {
+              "artigo": 1,
+              "texto_original": "A Igreja Presbiteriana do Brasil, anteriormente denominada Igreja Cristã Presbiteriana do Brasil, é uma comunidade religiosa, constituída de uma federação de igrejas locais, com sede civil na Capital da República, organizada de acordo com sua própria Constituição. § 1º As igrejas federadas, que se compõem de membros que adotam como única regra de fé e prática a Bíblia Sagrada e como sistema expositivo de doutrina e prática a sua Confissão de Fé e os Catecismos Maior e Breve, representam-se pelos deputados eleitos pelos concílios regionais, no Supremo Concílio, que é a assembleia geral da Igreja Presbiteriana do Brasil. § 2º A igreja tem por fim adorar a Deus conforme as Escrituras Sagradas do Velho e Novo Testamentos, propagar o Evangelho de nosso Senhor Jesus Cristo, promover educação cristã e obras de caridade e administrar o seu patrimônio, bem como supervisionar e orientar, através dos concílios competentes, a ação das igrejas federadas. § 3º Para a consecução de seus fins a igreja poderá constituir filiais em qualquer parte do território nacional.",
+              "analise_ia": {
+                "resumo_simples": "O Estatuto define a IPB como uma federação de igrejas locais, com sede civil em Brasília, organizada pela sua Constituição. Seus fins incluem adoração, evangelização, educação cristã, caridade e administração patrimonial, supervisionando as igrejas federadas. Pode criar filiais nacionalmente.",
+                "conceitos_chave": [
+                  "Natureza Federativa",
+                  "Sede Civil",
+                  "Propósitos (Adoração, Evangelização, Educação, Caridade)",
+                  "Supervisão Conciliar",
+                  "Sola Scriptura (Bíblia como única regra)"
+                ],
+                "contexto_teologico": "Este artigo do Estatuto, que é um documento civil, alinha a IPB com as leis brasileiras enquanto reafirma sua identidade eclesiástica e doutrinária (baseada na Bíblia e Padrões de Westminster). A federação e a representação no Supremo Concílio são chaves para seu governo. A inclusão da possibilidade de constituir filiais (acrescentado em 2018) reflete a expansão da denominação."
+              }
+            }
+          ]
+        },
+        {
+          "tipo": "capitulo",
+          "numero": "II",
+          "titulo": "ADMINISTRAÇÃO",
+          "artigos": [
+            {
+              "artigo": 2,
+              "texto_original": "A Igreja Presbiteriana do Brasil é representada civilmente por sua Comissão Executiva, constituída de Presidente, Vice-Presidente, Secretário Executivo e Tesoureiro, eleitos pelo Supremo Concílio, e dos presidentes dos sínodos eclesiásticos que deverão ser brasileiros. § 1º A igreja será representada ativa, passiva, judicial e extrajudicialmente pelo Presidente da Comissão Executiva ou por seu substituto legal em exercício. § 2º A igreja poderá outorgar procuração para emissão e utilização de certificado digital em seu nome, com poderes específicos para atuação perante a ICP–Brasil – Infraestrutura de Chaves Públicas Brasileira, ou entidade que a suceda.",
+              "analise_ia": {
+                "resumo_simples": "A IPB é representada civilmente pela sua Comissão Executiva, composta por Presidente, Vice-Presidente, Secretário Executivo, Tesoureiro (eleitos pelo SC) e presidentes de sínodos. O Presidente da CE representa a IPB legalmente. A igreja também pode usar certificados digitais.",
+                "conceitos_chave": [
+                  "Representação Civil",
+                  "Comissão Executiva (CE-SC/IPB)",
+                  "Composição da CE",
+                  "Presidente da CE (representante legal)",
+                  "Certificado Digital"
+                ],
+                "contexto_teologico": "Este artigo detalha a estrutura administrativa da IPB para fins civis, garantindo sua operação legal no Brasil. A Comissão Executiva do Supremo Concílio (CE-SC/IPB) atua como seu órgão representativo. A exigência de que os presidentes dos sínodos sejam brasileiros (adicionado em 1954) e a possibilidade de usar certificados digitais (adicionado em 2018) mostram a adaptação às leis e necessidades contemporâneas do país, garantindo a conformidade e a segurança nas transações civis."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo_documento_legal": "Regimento Interno do SC/IPB",
+      "capitulos": [
+        {
+          "tipo": "capitulo",
+          "numero": "I",
+          "titulo": "DA VERIFICAÇÃO DE PODERES",
+          "artigos": [
+            {
+              "artigo": 1,
+              "texto_original": "A Mesa do Concílio, reunida à chamada do Presidente, na hora determinada no termo de convocação, procederá à verificação de poderes (CI/IPB, art. 67). § 1º A falta de membros da Mesa será suprida por auxiliares convidados pelo Presidente. § 2º A Mesa arrolará como membros efetivos do Concílio ministros e presbíteros cujas credenciais considerar em ordem. § 3º A credencial do ministro é a sua carteira de ministro, com a anotação da sua escolha como deputado ou representante; a do presbítero é o certificado de sua escolha (CI/IPB, art. 68) que deve ser observado tanto nas reuniões ordinárias como nas extraordinárias. § 4º O portador do livro de atas e do relatório sinodal é o deputado escolhido pelo Secretário Executivo do Sínodo. § 5º As credenciais que forem apresentadas após o ato de verificação de poderes serão examinadas pela nova Mesa. § 6º Do ato de verificação de poderes lavrar-se-á uma ata minuciosa em que constem os membros arrolados e os que tiverem seus nomes impugnados, com a declaração dos motivos para final apreciação do Concílio, em sessão regular. § 7º Os membros ex officio só poderão tomar assento mediante a apresentação do relatório de trabalho ou encargo que lhes foi confiado pelo Supremo Concílio, devendo também os ministros apresentar sua carteira ministerial.",
+              "analise_ia": {
+                "resumo_simples": "A Mesa do Supremo Concílio verifica as credenciais de ministros (carteira com anotação de deputado) e presbíteros (certificado de escolha, livro de atas e relatório sinodal) para arrolá-los como membros efetivos. Membros ex officio também devem apresentar relatório.",
+                "conceitos_chave": [
+                  "Verificação de Poderes",
+                  "Credenciais (Ministro e Presbítero)",
+                  "Membros Efetivos",
+                  "Membros Ex Officio",
+                  "Transparência Processual"
+                ],
+                "contexto_teologico": "Este processo garante a legitimidade da representação e a boa ordem das reuniões do Supremo Concílio. As credenciais asseguram que apenas os delegados devidamente eleitos e qualificados participem das deliberações, protegendo a integridade do processo conciliar. A exigência de relatório de trabalho para membros 'ex officio' (SC-1954-DOC. CIX) garante que a participação se baseie em serviço e responsabilidade, não apenas em posição."
+              }
+            }
+          ]
+        },
+        {
+          "tipo": "capitulo",
+          "numero": "II",
+          "titulo": "DAS SESSÕES",
+          "secoes": [
+            {
+              "tipo": "secao",
+              "numero": "I",
+              "titulo": "Da Sessão Preparatória",
+              "artigos": [
+                {
+                  "artigo": 3,
+                  "texto_original": "Após o exercício espiritual, proceder-se-á, por voto secreto, à eleição da nova Mesa, de conformidade com a Constituição, art. 67 e seus parágrafos.",
+                  "analise_ia": {
+                    "resumo_simples": "Após um exercício espiritual, a nova Mesa do Supremo Concílio é eleita por voto secreto, seguindo o Art. 67 da Constituição.",
+                    "conceitos_chave": [
+                      "Exercício Espiritual",
+                      "Eleição da Mesa",
+                      "Voto Secreto",
+                      "Conformidade Constitucional"
+                    ],
+                    "contexto_teologico": "A Sessão Preparatória inicia com um 'exercício espiritual', sublinhando a natureza religiosa e não meramente política das reuniões eclesiásticas. O voto secreto é uma prática democrática que visa a transparência e a imparcialidade na escolha da liderança. As notas (SC-1974-DOC. VIII, CE-2012-DOC. CLXXVIII) detalham regras para campanhas eleitorais e reeleição de presidentes, buscando garantir a idoneidade e evitar contendas, enquanto CE-2003-DOC. VI esclarece o voto de desempate do Presidente."
+                  }
+                }
+              ]
+            },
+            {
+              "tipo": "secao",
+              "numero": "III",
+              "titulo": "Das Sessões Privativas e Interlocutórias",
+              "artigos": [
+                {
+                  "artigo": 9,
+                  "texto_original": "Os assuntos reservados tratar-se-ão em sessão privativa, com a presença exclusiva dos membros do Concílio.",
+                  "analise_ia": {
+                    "resumo_simples": "Assuntos confidenciais ou sensíveis são tratados em sessões privativas, com a presença exclusiva dos membros do Concílio.",
+                    "conceitos_chave": [
+                      "Sessões Privativas",
+                      "Confidencialidade",
+                      "Membros do Concílio"
+                    ],
+                    "contexto_teologico": "Esta disposição permite que o Concílio lide com assuntos delicados, como disciplina de oficiais ou questões financeiras sensíveis, de forma resguardada, protegendo a privacidade das pessoas envolvidas e a reputação da igreja, ao mesmo tempo em que garante que as decisões sejam tomadas pelos membros com direito a voto."
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "capitulo",
+          "numero": "III",
+          "titulo": "DA MESA E FUNCIONÁRIOS",
+          "secoes": [
+            {
+              "tipo": "secao",
+              "numero": "II",
+              "titulo": "Do Secretário Executivo",
+              "artigos": [
+                {
+                  "artigo": 12,
+                  "texto_original": "Ao Secretário Executivo compete: I – preparar, com antecedência, o rol dos presbitérios, cujos representantes serão arrolados no ato da verificação de poderes; II – receber dos secretários temporários todos os papéis do Concílio e conservá-los em boa ordem; III – providenciar papéis e outros materiais destinados ao expediente da reunião; IV – coordenar os trabalhos dos Secretários Temporários; V – assinar com o Presidente a correspondência que expedir, enquanto o Concílio estiver reunido; VI – fazer as anotações nas carteiras de ministro; VII – apresentar ao Concílio o resumo das atas da última reunião; VIII – preparar modelos de fichas, timbres, certificados, cartas de transferência e outros papéis, para serem usados uniformemente pelas igrejas, concílios e autarquias; IX – estudar e propor à Comissão Executiva o aperfeiçoamento do material referido no inciso anterior; X – encaminhar à Casa Editora Presbiteriana, para publicação e distribuição, todo o material referido no inciso VIII; XI – prestar relatório anualmente à Comissão Executiva e quadrienalmente ao Supremo Concílio; XII – levantar estatística completa com todos os dados referentes à obra da Igreja, em todos os seus aspectos; XIII – organizar mapas minuciosos de presbitérios, sínodos, Supremo Concílio e campos missionários presbiterianos.",
+                  "analise_ia": {
+                    "resumo_simples": "O Secretário Executivo do Supremo Concílio é responsável por uma vasta gama de tarefas administrativas, incluindo a preparação de documentos, coordenação de trabalhos, gestão de correspondências, padronização de materiais, relatórios e levantamento de estatísticas para toda a IPB.",
+                    "conceitos_chave": [
+                      "Gestão Administrativa",
+                      "Organização Documental",
+                      "Coordenação",
+                      "Padronização",
+                      "Relatoria",
+                      "Estatísticas Eclesiásticas"
+                    ],
+                    "contexto_teologico": "Este artigo destaca a importância do Secretário Executivo na manutenção da ordem e eficiência administrativa da IPB. A abrangência de suas responsabilidades, desde a organização de reuniões até o levantamento estatístico e a padronização de documentos, mostra a complexidade da gestão de uma federação de igrejas. A exigência de relatório anual e quadrienal garante a prestação de contas e a transparência. A inclusão de atribuições antes ligadas a 'Secretários Gerais de Organização e Estatística' (transferidas em 1999 e 2018) consolida e otimiza a função, centralizando a informação e o controle administrativo."
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo_documento_legal": "Regulamento para Confecção de Atas",
+      "capitulos": [
+        {
+          "tipo": "secao_geral",
+          "titulo": "I – DO REGULAMENTO E DOS OBJETIVOS",
+          "artigos": [
+            {
+              "artigo": 1,
+              "texto_original": "Este regulamento visa à instrução quanto à confecção de atas e abrange todos os Concílios da IPB.",
+              "analise_ia": {
+                "resumo_simples": "Este regulamento tem como objetivo instruir sobre a confecção de atas para todos os Concílios da IPB.",
+                "conceitos_chave": [
+                  "Instrução",
+                  "Atas",
+                  "Concílios da IPB",
+                  "Uniformidade"
+                ],
+                "contexto_teologico": "A uniformidade na confecção de atas em todos os níveis conciliares da IPB é essencial para a transparência, a legalidade e a preservação da memória institucional da denominação. As atas são registros históricos e jurídicos das decisões eclesiásticas, fundamentais para a governança presbiteriana e para a prestação de contas."
+              }
+            }
+          ]
+        },
+        {
+          "tipo": "secao_geral",
+          "titulo": "II – DO LIVRO DE ATAS",
+          "artigos": [
+            {
+              "artigo": 2,
+              "texto_original": "Os livros de atas dos concílios poderão ser confeccionados em meio digital ou manuscrito. § 1º O livro deverá trazer sobre a capa os seguintes títulos: ATAS – nome, localidade, número do livro, data de abertura e encerramento e a sede do Concílio. § 2º O livro deverá ser rubricado em todas as folhas pelo presidente e pelo secretário do Conselho ou secretário executivo em caso de Concílios superiores. § 3º As atas serão rubricadas, nos termos do parágrafo anterior, por aqueles que exerceram as funções naquela reunião.",
+              "analise_ia": {
+                "resumo_simples": "Os livros de atas podem ser digitais ou manuscritos, devendo ter identificação na capa (títulos, localidade, datas) e todas as folhas rubricadas pelo presidente e secretário da reunião.",
+                "conceitos_chave": [
+                  "Livro de Atas (Digital/Manuscrito)",
+                  "Padronização",
+                  "Rubrica",
+                  "Identificação"
+                ],
+                "contexto_teologico": "Este artigo estabelece a formalidade necessária para a documentação eclesiástica. A possibilidade de uso de meio digital (adicionado em 2015) reflete a adaptação da IPB aos avanços tecnológicos, mantendo a rigorosidade na autenticação (rubricas e assinaturas) para garantir a inviolabilidade e a credibilidade dos registros conciliares, que são a base legal de muitas decisões da igreja."
+              }
+            },
+            {
+              "artigo": 5,
+              "texto_original": "Este livro deverá ter os seguintes requisitos: § 1º Ser de bom papel, bem encadernado, capa de papelão, coberto de pano, ou de outro material resistente; § 2º Ser pautado, numerado tipograficamente em cada página ou folha e marginado em ambos os lados com três centímetros; § 3º À margem externa da página devem ser registrados os assuntos da matéria contida no trecho da ata imediatamente ao lado e, na margem interna, e sempre que possível com tinta diferente, o número da página em que esteja registrada a emenda e correção, referente ao trecho imediatamente ao lado, correção esta que se encontrará no final da mesma ata, ou em atas posteriores. § 4º Cor do caractere: Deverá ser utilizada, preferencialmente, a cor preta ou azul para a escrita. § 5º Alinhamento: O texto deverá ser alinhado de maneira a ficar justificado entre as margens. § 6º Colunamento: O texto deverá ser composto por apenas uma coluna. § 7º Fluxo do Texto: O texto de cada ata deverá iniciar-se na primeira linha da página. O texto deverá ser composto de um único. parágrafo O texto de cada ata deverá ocupar totalmente uma página. No caso do texto da ata, por si só, não completar a página até a sua última linha, a(s) linha(s) restante(s), logo após a assinatura do secretário, deverá (ão) ser inutilizada(s) com o uso de uma linha sinuosa, repetido em sequência, sem espaços vazios.",
+              "analise_ia": {
+                "resumo_simples": "Especifica detalhadamente os requisitos físicos e de formatação para livros de atas manuscritos, incluindo tipo de papel, encadernação, numeração, margens para anotações, cores de tinta e preenchimento de espaços vazios.",
+                "conceitos_chave": [
+                  "Padronização Física",
+                  "Margens (anotações/correções)",
+                  "Formatação Escrita",
+                  "Integridade do Registro"
+                ],
+                "contexto_teologico": "A meticulosa descrição dos requisitos para o livro manuscrito (incluindo margens para emendas, cores de tinta e preenchimento de espaços) visa garantir a integridade, a clareza e a rastreabilidade das informações. Isso previne adulterações e facilita a consulta, sendo crucial para a precisão dos registros históricos e legais da igreja. É um reflexo da valorização da ordem e da fidedignidade nos documentos eclesiásticos."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo_documento_legal": "Modelo de Estatuto – Igreja Local",
+      "capitulos": [
+        {
+          "tipo": "capitulo",
+          "numero": "II",
+          "titulo": "IDENTIDADE CONFESSIONAL, FILIAÇÃO ECLESIÁSTICA E FORMA DE GOVERNO",
+          "artigos": [
+            {
+              "artigo": 2,
+              "texto_original": "A Igreja é uma comunidade local de pessoas que professam a Fé Evangélica, segundo os postulados da Reforma Protestante do Século XVI, filiada eclesiasticamente à Igreja Presbiteriana do Brasil – IPB, cuja Constituição a obriga quanto à doutrina, liturgia e governo. § 1º A doutrina adotada pela IPB é o entendimento bíblico exposto na Confissão de Fé de Westminster e seus Catecismos Maior e Breve. § 2º A liturgia é o conjunto de elementos, formas, regras e princípios adotados pela IPB, em relação ao culto, conforme os ensinamentos das Sagradas Escrituras. § 3º O governo é disciplinado por preceitos bíblicos, confessionais e constitucionais reconhecidos pelos crentes como emanando da autoridade do próprio Senhor Jesus Cristo, único soberano sobre toda a Igreja. § 4º A escolha daqueles que exercem o governo humano da Igreja é um processo representativo, de forma que a assembleia dos crentes, reconhecendo aqueles que manifestam as características biblicamente qualificadas para o exercício do governo da Igreja, escolhe seus representantes, denominados Presbíteros, os quais, juntamente com o Pastor e Pastores, compõem o Conselho da Igreja, por meio do qual a Igreja é governada.",
+              "analise_ia": {
+                "resumo_simples": "A igreja local é uma comunidade que professa a Fé Evangélica da Reforma Protestante, filiada à IPB e obrigada por sua Constituição em doutrina, liturgia e governo. Sua doutrina é baseada na Confissão de Fé e Catecismos de Westminster. A liturgia segue princípios bíblicos da IPB, e o governo é representativo, exercido pelo Conselho, composto por Pastor(es) e Presbíteros eleitos.",
+                "conceitos_chave": [
+                  "Identidade Confessional (Reforma Protestante)",
+                  "Filiação Eclesiástica (IPB)",
+                  "Doutrina (Padrões de Westminster)",
+                  "Liturgia (Princípios Bíblicos)",
+                  "Governo Representativo (Conselho)",
+                  "Soberania de Cristo"
+                ],
+                "contexto_teologico": "Este artigo é crucial para a igreja local entender sua identidade dentro da IPB. Ele estabelece as bases teológicas e governamentais: o compromisso com a Reforma Protestante, a Confissão de Fé de Westminster e a Constituição da IPB. O governo 'representativo' pelo Conselho (Pastor e Presbíteros) é uma característica central do presbiterianismo, garantindo que a liderança seja reconhecida e eleita pelo povo, mas com autoridade para governar e disciplinar, refletindo a soberania de Cristo sobre a Igreja."
+              }
+            }
+          ]
+        },
+        {
+          "tipo": "capitulo",
+          "numero": "III",
+          "titulo": "CLASSIFICAÇÃO, DIREITOS, DEVERES, ADMISSÃO, TRANSFERÊNCIA E EXCLUSÃO DE MEMBROS",
+          "secoes": [
+            {
+              "tipo": "secao",
+              "numero": "II",
+              "titulo": "Direitos e Deveres dos Membros",
+              "artigos": [
+                {
+                  "artigo": 6,
+                  "texto_original": "São direitos dos membros comungantes: I – participar do sacramento da Santa Ceia; II – apresentar ao batismo seus filhos, bem como os menores sob sua guarda; III – participar das assembleias da Igreja, exercendo o direito de voto, na forma do presente estatuto e da Constituição da IPB; IV – exercer cargos, na forma e condições estabelecidas pelo presente estatuto e pela Constituição da IPB; V – receber aulas e instruções teológicas segundo a doutrina adotada pela IPB; VI – usar os espaços e instalações da Igreja, na forma definida pelo Conselho. § 1º Os direitos relacionados no presente artigo não excluem outros direitos assegurados pela Constituição da IPB. § 2º Somente os membros que não estejam sob disciplina gozarão de todos os direitos contemplados neste estatuto. § 3º Somente poderão ser votados em assembleia geral os membros maiores de dezoito anos e civilmente capazes. § 4º Para que o membro exerça cargo eletivo, será indispensável o decurso de seis meses após a sua recepção, ressalvados os cargos de Presbítero e Diácono. § 5º Nas organizações internas da Igreja, os cargos serão ocupados por designação do Conselho ou eleição pelos membros dos respectivos departamentos constituídos por homens, mulheres, jovens, adolescentes e crianças, cujo funcionamento deve observar regulamentação específica.",
+                  "analise_ia": {
+                    "resumo_simples": "Detalha os direitos dos membros comungantes, incluindo participação na Ceia, batismo de filhos, voto em assembleias, elegibilidade para cargos (com condições de idade e tempo de membresia) e acesso à instrução teológica e instalações da igreja. Membros sob disciplina perdem esses direitos. Oficiais e cargos internos seguem regras específicas.",
+                    "conceitos_chave": [
+                      "Direitos dos Membros",
+                      "Privilégios da Comunhão",
+                      "Elegibilidade",
+                      "Exclusão por Disciplina",
+                      "Participação Interna"
+                    ],
+                    "contexto_teologico": "Este artigo descreve a cidadania plena do membro da igreja local. A participação nos sacramentos e o direito de voto são centrais, mas vêm com responsabilidades e condições (como não estar sob disciplina, Art. 13 da CI/IPB). As qualificações para cargos eletivos (idade, capacidade civil, tempo de membresia, Art. 13 da CI/IPB) visam garantir maturidade e comprometimento. A inclusão de organizações internas para 'homens, mulheres, jovens, adolescentes e crianças' demonstra a abrangência do trabalho eclesiástico e a valorização de todos os grupos etários e de gênero na vida da igreja, embora o oficialato seja restrito a homens, conforme a CI/IPB."
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo_documento_legal": "Modelo de Regimento Interno para a Junta Diaconal",
+      "capitulos": [
+        {
+          "tipo": "secao_geral",
+          "titulo": "DEFINIÇÃO",
+          "artigos": [
+            {
+              "artigo": 1,
+              "texto_original": "A Junta Diaconal constituída de todos os diáconos da Igreja (CI, art. 83, alínea “g”) coordena as funções estabelecidas na CI, art. 53 e rege-se pelo presente regimento (CI, art. 58).",
+              "analise_ia": {
+                "resumo_simples": "A Junta Diaconal é composta por todos os diáconos da igreja, coordena as funções diaconais definidas na CI (Art. 53) e é regida por este regimento (CI, Art. 58).",
+                "conceitos_chave": [
+                  "Junta Diaconal",
+                  "Diáconos",
+                  "Coordenação",
+                  "Regimento Interno"
+                ],
+                "contexto_teologico": "Este artigo estabelece a base organizacional para a atuação dos diáconos na igreja local. A Junta Diaconal, como corpo colegiado, visa otimizar o serviço diaconal, garantindo que as funções de beneficência e ordem sejam coordenadas e eficientes, conforme os princípios eclesiásticos. A subordinação à CI (Art. 53 e 58) e a existência de um regimento específico demonstram a seriedade e a organização da IPB em todas as suas esferas de atuação."
+              }
+            }
+          ]
+        },
+        {
+          "tipo": "secao_geral",
+          "titulo": "FINALIDADE",
+          "artigos": [
+            {
+              "artigo": 2,
+              "texto_original": "Compete à Junta Diaconal coletivamente e aos diáconos individualmente: a) tomar conhecimento da existência de necessitados principalmente entre os membros da igreja, visitá-los, instruí-los e confortá-los espiritualmente, bem como auxiliá-los nas suas necessidades dentro das possibilidades da igreja, examinando cautelosamente a fim de verificar a real existência das necessidades alegadas; b) dispor para esses fins dos recursos votados pelo Conselho e das ofertas especiais. Determinar no início de cada ano a quantia máxima que o diácono poderá aplicar individualmente, por mês, no socorro urgente do necessitado; c) examinar os casos de pretensões a lugares gratuitos em hospitais e orfanatos recomendando ou não a assistência pretendida; d) tomar conhecimento da existência de enfermos, entre membros e aderentes da igreja, visitá-los e confortá-los em caso de necessidade; e) comunicar aos presbíteros e ao pastor a existência e as condições dos enfermos; f) manter em dia com meticuloso cuidado a lista e os endereços das pessoas que estão recebendo auxílio da Junta; g) recolher as ofertas dos membros e amigos da igreja, contá-las e encaminhá-las imediata e diretamente à Tesouraria; h) dar todo o apoio coletivo e assegurar o apoio individual dos diáconos aos planos econômicos ou financeiros adotados pelo Conselho da igreja de modo que sejam propagados com entusiasmo e realizados com toda a eficiência; i) verificar se estão em ordem as coisas referentes ao culto como também os objetos da Santa Ceia e do batismo e recolhimento das ofertas; j) observar a ordem conveniente nos pátios e arredores do Templo, desde a rua até às dependências internas; l) evitar de modo absoluto que haja reuniões em outras salas ou palestras entre membros da igreja ou simples assistentes, dentro do Templo ou nos pátios, durante as horas de culto.",
+              "analise_ia": {
+                "resumo_simples": "A Junta Diaconal e os diáconos individualmente são responsáveis por identificar e assistir necessitados (membros ou aderentes) espiritual e materialmente, gerenciar recursos de beneficência, visitar enfermos, comunicar necessidades ao Conselho, manter registros, recolher e encaminhar ofertas à Tesouraria, apoiar planos financeiros da igreja e zelar pela ordem e reverência nos locais de culto, evitando distrações durante as reuniões.",
+                "conceitos_chave": [
+                  "Serviço Diaconal",
+                  "Beneficência (assistência social/espiritual)",
+                  "Gestão de Recursos (ofertas)",
+                  "Cuidado Pastoral (visitas a enfermos)",
+                  "Ordem e Reverência no Culto"
+                ],
+                "contexto_teologico": "Este artigo detalha o ministério prático dos diáconos, que é uma expressão tangível da fé e do amor cristão na comunidade. Suas funções abrangem desde a 'caridade' (cuidado com pobres, doentes, inválidos) até a 'mordomia' financeira (arrecadação de ofertas) e a 'ordem' no culto. A ênfase na 'visita', 'instrução espiritual' e 'conforto' mostra que a diaconia não é apenas material, mas holística. O papel de zelar pela ordem no culto e nos espaços da igreja reforça a reverência presbiteriana à adoração. A proibição de 'reuniões em outras salas ou palestras' durante o culto visa garantir a unidade e a concentração na adoração principal."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
